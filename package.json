@@ -1,0 +1,26 @@
+{
+  "name": "ukaaa-portfolio",
+  "version": "1.0.0",
+  "description": "A basic portfolio for Nicholas Hendrickx (ukaaa)",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Nicholas Hendrickx",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "ukaaa-portfolio"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-inject-string": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}

@@ -1,0 +1,95 @@
+[
+    {
+        "section": "Skills and Tools",
+        "type": "tags",
+        "entries": [
+            {
+                "label": "Front-end Development"
+            },
+            {
+                "label": "UI Design"
+            },
+            {
+                "label": "UX Design"
+            },
+            {
+                "label": "Illustration"
+            },
+            {
+                "label": "Corporate Design"
+            },
+            {
+                "label": "Photography"
+            },
+            {
+                "label": "JavaScript"
+            },
+            {
+                "label": "Angular2"
+            },
+            {
+                "label": "TypeScript"
+            },
+            {
+                "label": "HTML"
+            },
+            {
+                "label": "CSS/SCSS"
+            },
+            {
+                "label": "Illustrator"
+            },
+            {
+                "label": "Photoshop"
+            },
+            {
+                "label": "InDesign"
+            }
+        ]
+    },
+    {
+        "section": "Work experience",
+        "entries": [
+            {
+                "year": "2013 – Present",
+                "label": "Lead Designer and Front-End Developer",
+                "location": "Zentrick"
+            },
+            {
+                "year": "2011 – Present",
+                "label": "Graphic Designer for various projects",
+                "location": "Freelance"
+            },
+            {
+                "year": "2010 – 2013",
+                "label": "Graphic Designer and Front-End Developer",
+                "location": "Zentrick"
+            }
+        ]
+    },
+    {
+        "section": "Education",
+        "entries": [
+            {
+                "year": 2011,
+                "label": "Teacher degree",
+                "location": "CVO Kisp, Ghent"
+            },
+            {
+                "year": 2010,
+                "label": "DTP course",
+                "location": "Syntra Midden-Vlaanderen"
+            },
+            {
+                "year": 2010,
+                "label": "Graphic Design course",
+                "location": "Syntra Midden-Vlaanderen"
+            },
+            {
+                "year": 2009,
+                "label": "Master of Science, Civil Engineering",
+                "location": "KaHo Sint-Lieven, Ghent"
+            }
+        ]
+    }
+]
